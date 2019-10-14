@@ -6,7 +6,7 @@ var axios = require("axios");
 var userOption = process.argv[2];
 var inputParameter = process.argv[3];
 var Spotify = require('node-spotify-api');
-
+var fs = require('fs');
 var spotify = new Spotify(keys.spotify);
 var moment = require('moment');
 
@@ -85,7 +85,7 @@ function movieInfo(inputParameter) {
             console.log("Movie Title: " + response.data.Title);
             console.log("Year: " + response.data.Year);
             console.log("IMDB Rating: " + response.data.imdbRating);
-            console.log("Rotten Tomatoes Rating: " + response.tomatoRating);
+            console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
             console.log("Production Location: " + response.data.Country);
             console.log("Language: " + response.data.Language);
             console.log("Plot: " + response.data.Plot);
@@ -93,4 +93,13 @@ function movieInfo(inputParameter) {
 
             console.log("");
         })
+}
+
+function randomInfo(inputParameter) {
+    fs.readFile('random.txt', function(err, data) {
+        if(err) throw err;
+        var array = data.toString().split(",");
+        UserInputs(array[0],array[1]);
+    });
+     
 }
