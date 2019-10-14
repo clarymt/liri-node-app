@@ -64,13 +64,19 @@ function spotifyInfo(inputParameter) {
             var listing = data.tracks.items;
             console.log("");
             console.log(">--PERFORMING RITUALS TO THE MYSTICS TO RETRIEVE YOUR DESIRED DATA--<");
-            for (var i = 0; i < 5; i++) {
+            for (var i = 0; i < 1; i++) {
                 console.log("");
                 console.log("Artist(s): " + listing[i].artists[0].name);
                 console.log("Song name: " + listing[i].name);
-                console.log("Preview song: " + listing[i].preview_url);
                 console.log("Album: " + listing[i].album.name);
+                console.log("Preview song: " + listing[i].preview_url);
                 console.log("");
+                
+                fs.appendFileSync('log.txt',"   \n");
+                fs.appendFileSync('log.txt', "Artist(s): " + listing[i].artists[0].name + "\n");
+                fs.appendFileSync('log.txt', "Song name: " + listing[i].name + "\n");
+                fs.appendFileSync('log.txt', "Album: " + listing[i].album.name + "\n");
+                fs.appendFileSync('log.txt', "Preview song: " + listing[i].preview_url + "\n");               
             }
         });
 }
