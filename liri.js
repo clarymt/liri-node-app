@@ -74,3 +74,23 @@ function spotifyInfo(inputParameter) {
             }
         });
 }
+
+//pulling from bandsintown api and spaciously displaying the result of next concert
+function movieInfo(inputParameter) {
+    axios.get("http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=trilogy").then(
+        function(response) {
+            console.log("");
+            console.log(">--PERFORMING RITUALS TO THE MYSTICS TO RETRIEVE YOUR DESIRED DATA--<");
+            console.log("");
+            console.log("Movie Title: " + response.data.Title);
+            console.log("Year: " + response.data.Year);
+            console.log("IMDB Rating: " + response.data.imdbRating);
+            console.log("Rotten Tomatoes Rating: " + response.tomatoRating);
+            console.log("Production Location: " + response.data.Country);
+            console.log("Language: " + response.data.Language);
+            console.log("Plot: " + response.data.Plot);
+            console.log("Actors: " + response.data.Actors);
+
+            console.log("");
+        })
+}
