@@ -48,6 +48,12 @@ function concertInfo(inputParameter) {
             console.log("Venue Location: " + response.data[0].venue.city + ", " + response.data[0].venue.country);
             console.log("Event Date: " + moment(response.data[0].venue.datetime).format("MM/DD/YYYY"));
             console.log("");
+
+            fs.appendFileSync('log.txt', "   \n");
+            fs.appendFileSync('log.txt', "CONCERT-THIS\n");
+            fs.appendFileSync('log.txt', "Venue Name: " + response.data[0].venue.name + "\n");
+            fs.appendFileSync('log.txt', "Venue Location: " + response.data[0].venue.city + ", " + response.data[0].venue.country);
+            fs.appendFileSync('log.txt', "Event Date: " + moment(response.data[0].venue.datetime).format("MM/DD/YYYY"));
         })
 }
 
@@ -71,12 +77,14 @@ function spotifyInfo(inputParameter) {
                 console.log("Album: " + listing[i].album.name);
                 console.log("Preview song: " + listing[i].preview_url);
                 console.log("");
-                
-                fs.appendFileSync('log.txt',"   \n");
+
+                fs.appendFileSync('log.txt', "   \n");
+                fs.appendFileSync('log.txt',"SPOTIFY-THIS-SONG\n");
                 fs.appendFileSync('log.txt', "Artist(s): " + listing[i].artists[0].name + "\n");
                 fs.appendFileSync('log.txt', "Song name: " + listing[i].name + "\n");
                 fs.appendFileSync('log.txt', "Album: " + listing[i].album.name + "\n");
                 fs.appendFileSync('log.txt', "Preview song: " + listing[i].preview_url + "\n");               
+
             }
         });
 }
@@ -85,6 +93,7 @@ function spotifyInfo(inputParameter) {
 function movieInfo(inputParameter) {
     axios.get("http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=trilogy").then(
         function(response) {
+            
             console.log("");
             console.log(">--PERFORMING RITUALS TO THE MYSTICS TO RETRIEVE YOUR DESIRED DATA--<");
             console.log("");
@@ -96,16 +105,27 @@ function movieInfo(inputParameter) {
             console.log("Language: " + response.data.Language);
             console.log("Plot: " + response.data.Plot);
             console.log("Actors: " + response.data.Actors);
-
             console.log("");
+
+            fs.appendFileSync('log.txt', "   \n");
+            fs.appendFileSync('log.txt',"MOVIE-THIS\n");
+            fs.appendFileSync('log.txt', "Movie Title: " + response.data.Title + "\n");
+            fs.appendFileSync('log.txt', "Year: " + response.data.Year + "\n");
+            fs.appendFileSync('log.txt', "IMDB Rating: " + response.data.imdbRating + "\n");
+            fs.appendFileSync('log.txt', "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n");
+            fs.appendFileSync('log.txt', "Production Location: " + response.data.Country + "\n");
+            fs.appendFileSync('log.txt', "Language: " + response.data.Language + "\n");
+            fs.appendFileSync('log.txt', "Plot: " + response.data.Plot + "\n");
+            fs.appendFileSync('log.txt', "Actors: " + response.data.Actors + "\n");               
+
         })
 }
 
 function randomInfo(inputParameter) {
     fs.readFile('random.txt', function(err, data) {
         if(err) throw err;
-        var array = data.toString().split(",");
-        UserInputs(array[0],array[1]);
+        var inputParameter = data.toString().split(",");
+        UserInputs(inputParameter[0],inputParameter[1]);
     });
      
 }

@@ -300,3 +300,148 @@ Artist(s): Playboi Carti
 Song name: FlatBed Freestyle
 Album: Die Lit
 Preview song: null
+ CONCERT-THIS
+Venue Name: Melkweg & The Box
+Venue Location: Nieuw-amsterdam, NetherlandsEvent Date: 10/14/2019   
+CONCERT-THIS
+Venue Name: Travis and Keane
+Venue Location: Monterrey, MexicoEvent Date: 10/14/2019   
+ SPOTIFY-THIS-SONG
+Artist(s): Travis Scott
+Song name: SICKO MODE
+Album: ASTROWORLD
+Preview song: https://p.scdn.co/mp3-preview/1c3c01c64477b356e28a652b6447f4ef96689a71?cid=aff18b6381d14074b03b724edc48dbb9
+   
+   
+ SPOTIFY-THIS-SONG
+Artist(s): Travis Scott
+Song name: SICKO MODE
+Album: ASTROWORLD
+Preview song: https://p.scdn.co/mp3-preview/1c3c01c64477b356e28a652b6447f4ef96689a71?cid=aff18b6381d14074b03b724edc48dbb9
+   
+   
+CONCERT-THIS
+Venue Name: Dorock XL Kadıköy
+Venue Location: Istanbul, TurkeyEvent Date: 10/14/2019   
+MOVIE-THIS
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 90%
+Production Location: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+   
+SPOTIFY-THIS-SONG
+Artist(s): DaBaby
+Song name: Next Song
+Album: Blank Blank
+Preview song: null
+   
+CONCERT-THIS
+Venue Name: Dorock XL Kadıköy
+Venue Location: Istanbul, TurkeyEvent Date: 10/14/2019   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
+   
+MOVIE-THIS
+Movie Title: Clown
+Year: 2014
+IMDB Rating: 5.7
+Rotten Tomatoes Rating: 46%
+Production Location: USA, Canada
+Language: English
+Plot: A loving father finds a clown suit for his son's birthday party, only to realize that it's cursed.
+Actors: Andy Powers, Laura Allen, Peter Stormare, Christian Distefano
+   
+SPOTIFY-THIS-SONG
+Artist(s): DaBaby
+Song name: Next Song
+Album: Blank Blank
+Preview song: null
+   
+MOVIE-THIS
+Movie Title: This Is the End
+Year: 2013
+IMDB Rating: 6.6
+Rotten Tomatoes Rating: 83%
+Production Location: USA
+Language: English, Spanish
+Plot: 6 Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves.
+Actors: James Franco, Jonah Hill, Seth Rogen, Jay Baruchel
+   
+CONCERT-THIS
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland, New ZealandEvent Date: 10/14/2019   
+MOVIE-THIS
+Movie Title: Klown
+Year: 2010
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 73%
+Production Location: Denmark
+Language: Danish
+Plot: In order to prove his fatherhood potential to his pregnant girlfriend, Frank 'kidnaps' her 12-year-old nephew and tags along on his best friend Casper's debauched weekend canoe trip.
+Actors: Frank Hvam, Casper Christensen, Marcuz Jess Petersen, Mia Lyhne
+   
+CONCERT-THIS
+Venue Name: Travis and Keane
+Venue Location: Monterrey, MexicoEvent Date: 10/14/2019   
+CONCERT-THIS
+Venue Name: Travis and Keane
+Venue Location: Monterrey, MexicoEvent Date: 10/14/2019   
+CONCERT-THIS
+Venue Name: Dorock XL Kadıköy
+Venue Location: Istanbul, TurkeyEvent Date: 10/14/2019   
+MOVIE-THIS
+Movie Title: El
+Year: 1953
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 100%
+Production Location: Mexico
+Language: Spanish
+Plot: A husband's suave exterior unravels after his marriage, and he unleashes his paranoid and volatile temper on his wife, which escalates to more dangerous and unpredictable tantrums.
+Actors: Arturo de Córdova, Delia Garcés, Aurora Walker, Carlos Martínez Baena
+   
+MOVIE-THIS
+Movie Title: El
+Year: 1953
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 100%
+Production Location: Mexico
+Language: Spanish
+Plot: A husband's suave exterior unravels after his marriage, and he unleashes his paranoid and volatile temper on his wife, which escalates to more dangerous and unpredictable tantrums.
+Actors: Arturo de Córdova, Delia Garcés, Aurora Walker, Carlos Martínez Baena
+   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
+   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
+   
+SPOTIFY-THIS-SONG
+Artist(s): Backstreet Boys
+Song name: I Want It That Way
+Album: The Hits--Chapter One
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=aff18b6381d14074b03b724edc48dbb9
