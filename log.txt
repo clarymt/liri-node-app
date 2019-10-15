@@ -445,3 +445,29 @@ Artist(s): Backstreet Boys
 Song name: I Want It That Way
 Album: The Hits--Chapter One
 Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=aff18b6381d14074b03b724edc48dbb9
+   
+SPOTIFY-THIS-SONG
+Artist(s): Harry Styles
+Song name: Sign of the Times
+Album: Harry Styles
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: Evil Dead
+Year: 2013
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 62%
+Production Location: USA
+Language: English, Welsh
+Plot: Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.
+Actors: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas
+   
+MOVIE-THIS
+Movie Title: Evil Dead
+Year: 2013
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 62%
+Production Location: USA
+Language: English, Welsh
+Plot: Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.
+Actors: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas

@@ -39,6 +39,7 @@ function UserInputs(userOption, inputParameter) {
 
 //pulling from bandsintown api and spaciously displaying the result of next concert
 function concertInfo(inputParameter) {
+   
     axios.get("https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp").then(
         function (response) {
             console.log("");
@@ -60,6 +61,9 @@ function concertInfo(inputParameter) {
 //pulling up to 5 songs from spotify api since there are a lot of songs out there 
 //and spaciously displaying each entry
 function spotifyInfo(inputParameter) {
+    if (inputParameter === undefined) {
+        inputParameter = "The Sign"; 
+    }
     spotify.search(
         { type: "track", query: inputParameter },
         function (err, data) {
@@ -91,6 +95,11 @@ function spotifyInfo(inputParameter) {
 
 //pulling from bandsintown api and spaciously displaying the result of next concert
 function movieInfo(inputParameter) {
+
+    if (inputParameter === undefined) {
+        inputParameter = "evil dead";
+    }
+
     axios.get("http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=trilogy").then(
         function(response) {
             
