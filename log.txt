@@ -471,3 +471,75 @@ Production Location: USA
 Language: English, Welsh
 Plot: Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.
 Actors: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas
+   
+MOVIE-THIS
+Movie Title: Evil Dead
+Year: 2013
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 62%
+Production Location: USA
+Language: English, Welsh
+Plot: Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.
+Actors: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas
+   
+SPOTIFY-THIS-SONG
+Artist(s): Harry Styles
+Song name: Sign of the Times
+Album: Harry Styles
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=aff18b6381d14074b03b724edc48dbb9
+   
+SPOTIFY-THIS-SONG
+Artist(s): Harry Styles
+Song name: Sign of the Times
+Album: Harry Styles
+Preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
+   
+MOVIE-THIS
+Movie Title: The Evil Dead
+Year: 1981
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 95%
+Production Location: USA
+Language: English
+Plot: Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.
+Actors: Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker
+   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
+   
+MOVIE-THIS
+Movie Title: The Evil Dead
+Year: 1981
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 95%
+Production Location: USA
+Language: English
+Plot: Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.
+Actors: Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker
+   
+MOVIE-THIS
+Movie Title: Evil
+Year: 2003
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 68%
+Production Location: Sweden, Denmark
+Language: Swedish, Finnish
+Plot: A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+Actors: Andreas Wilson, Henrik Lundström, Gustaf Skarsgård, Linda Zilliacus
