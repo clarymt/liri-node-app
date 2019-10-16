@@ -563,3 +563,76 @@ Production Location: USA
 Language: English
 Plot: Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.
 Actors: Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker
+   
+CONCERT-THIS
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland, New ZealandEvent Date: 10/15/2019   
+SPOTIFY-THIS-SONG
+Artist(s): Adele
+Song name: Hello
+Album: 25
+Preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: No Country for Old Men
+Year: 2007
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 93%
+Production Location: USA
+Language: English, Spanish
+Plot: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+Actors: Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson
+   
+CONCERT-THIS
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland, New ZealandEvent Date: 10/15/2019   
+SPOTIFY-THIS-SONG
+Artist(s): Adele
+Song name: Hello
+Album: 25
+Preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: Alien
+Year: 1979
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 97%
+Production Location: UK, USA
+Language: English
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+   
+CONCERT-THIS
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland, New ZealandEvent Date: 10/15/2019   
+SPOTIFY-THIS-SONG
+Artist(s): Adele
+Song name: Hello
+Album: 25
+Preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: Alien
+Year: 1979
+IMDB Rating: 8.4
+Rotten Tomatoes Rating: 97%
+Production Location: UK, USA
+Language: English
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+   
+SPOTIFY-THIS-SONG
+Artist(s): Backstreet Boys
+Song name: I Want It That Way
+Album: The Hits--Chapter One
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=aff18b6381d14074b03b724edc48dbb9
+   
+MOVIE-THIS
+Movie Title: Evil Dead
+Year: 2013
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 62%
+Production Location: USA
+Language: English, Welsh
+Plot: Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.
+Actors: Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas

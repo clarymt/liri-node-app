@@ -16,7 +16,9 @@ Data is also output to log.txt as a search record.
 ---
 ## HOW TO USE LIRI
 ### VIDEO GUIDE 
-Watch a demonstration of the app here:
+Watch a detailed demonstration of the app here:
+
+https://drive.google.com/file/d/1I0eOa0gSWguvCsGkaTm8EqoZ9Vz3iNME/view
 
 ### INSTRUCTIONS
 1. Open your GitBash or Terminal
@@ -25,5 +27,20 @@ Watch a demonstration of the app here:
 4. View the information that is returned then go about your day.
 
 __Example:__ "`node liri.js movie-this evil dead`"
+![Results](/images/example.png)
 
-    ![Results](/images/example.png)
+--- 
+
+## TECHNOLOGIES USED
+* Javascript
+* Nodejs
+* Node packages:
+    * Node-Spotify-API
+    * Request
+    * Moment
+    * DotEnv
+* APIs used:
+    * Bands in Town
+    * OMDB
+* Git
+* GitHub
