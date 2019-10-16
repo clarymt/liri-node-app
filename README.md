@@ -11,6 +11,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
    * `movie-this`
 
    * `do-what-it-says`
+
+Data is also output to log.txt as a search record.
 ---
 ## HOW TO USE LIRI
 ### VIDEO GUIDE 
@@ -23,3 +25,5 @@ Watch a demonstration of the app here:
 4. View the information that is returned then go about your day.
 
 __Example:__ "`node liri.js movie-this evil dead`"
+
+    ![Results](/images/example.png)
